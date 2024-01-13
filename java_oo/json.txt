@@ -1,0 +1,7 @@
+{
+  "cep": "05360-210",
+  "street": "Rua Antônio de Bonis",
+  "neighborhood": "Vila Butantã",
+  "city": "São Paulo",
+  "state": "SP"
+}
